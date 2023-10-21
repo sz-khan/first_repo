@@ -1,4 +1,4 @@
 # first_repo
 This is my first repo
 <br>
-writer : Shan
+writer : Shan Zulfqiar
